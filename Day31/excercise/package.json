@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.17.3",
+    "nanoid": "^3.3.1"
+  },
+  "name": "excercise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npmx nodemon ."
+  },
+  "keywords": [],
+  "author": "wahyuoctar",
+  "license": "ISC",
+  "description": ""
+}
